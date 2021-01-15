@@ -1,2 +1,2 @@
 # fokin-weather
-Nomad Coders RN weather app clone coding
+Leaning React Native with weather app clone coding
